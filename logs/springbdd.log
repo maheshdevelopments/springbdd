@@ -1,0 +1,50 @@
+*[ERROR]-- Cannot set level 'ALL' for 'com.kgisl.springbdd'--
+*[INFO ]-- Starting SpringbddApplication on GSS431 with PID 76796 (E:\divya\springbdd-master\target\classes started by trainee in E:\divya\springbdd-master)--
+*[INFO ]-- No active profile set, falling back to default profiles: default--
+*[INFO ]-- Starting service [Tomcat]--
+*[INFO ]-- Starting Servlet Engine: Apache Tomcat/9.0.13--
+*[INFO ]-- The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_131\bin;E:\apache-maven-3.5.0\bin;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Users\Trainee.KGISL\AppData\Local\Microsoft\WindowsApps;C:\Users\Trainee.KGISL\AppData\Local\Programs\Git\cmd;C:\Users\Trainee.KGISL\AppData\Roaming\npm;C:\Users\Trainee.KGISL\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Trainee.KGISL\.dotnet\tools;.]--
+*[INFO ]-- Initializing Spring embedded WebApplicationContext--
+*[INFO ]-- HikariPool-1 - Starting...--
+*[INFO ]-- HikariPool-1 - Start completed.--
+*[INFO ]-- Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]--
+*[INFO ]-- Context refreshed--
+*[INFO ]-- Found 1 custom documentation plugin(s)--
+*[INFO ]-- Scanning for api listing references--
+*[INFO ]-- Started SpringbddApplication in 9.598 seconds (JVM running for 40.322)--
+*[INFO ]-- Initializing Spring DispatcherServlet 'dispatcherServlet'--
+*[INFO ]-- -----------------------@Before advice called----------------------------------------
+*[INFO ]-- Entering in Method :  createTeam--
+*[WARN ]-- Argumentsttt :  [com.kgisl.springbdd.entity.Team@56026609]--
+*[INFO ]-- ------------------- @AfterReturning advice called -----------------------------------
+*[INFO ]--  >Returning for class : {} ; Method : {} com.kgisl.springbdd.service.TeamServiceImpcreateTeam--
+*[INFO ]-- > with value : {}com.kgisl.springbdd.entity.Team@655b4b16--
+*[INFO ]-- HikariPool-1 - Shutdown initiated...--
+*[INFO ]-- HikariPool-1 - Shutdown completed.--
+*[ERROR]-- Cannot set level 'ALL' for 'com.kgisl.springbdd'--
+*[INFO ]-- Starting SpringbddApplication on GSS431 with PID 14196 (E:\divya\springbdd-master\target\classes started by trainee in E:\divya\springbdd-master)--
+*[INFO ]-- No active profile set, falling back to default profiles: default--
+*[INFO ]-- Starting service [Tomcat]--
+*[INFO ]-- Starting Servlet Engine: Apache Tomcat/9.0.13--
+*[INFO ]-- The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_131\bin;E:\apache-maven-3.5.0\bin;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Users\Trainee.KGISL\AppData\Local\Microsoft\WindowsApps;C:\Users\Trainee.KGISL\AppData\Local\Programs\Git\cmd;C:\Users\Trainee.KGISL\AppData\Roaming\npm;C:\Users\Trainee.KGISL\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Trainee.KGISL\.dotnet\tools;.]--
+*[INFO ]-- Initializing Spring embedded WebApplicationContext--
+*[INFO ]-- HikariPool-1 - Starting...--
+*[INFO ]-- HikariPool-1 - Start completed.--
+*[INFO ]-- Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]--
+*[INFO ]-- Context refreshed--
+*[INFO ]-- Found 1 custom documentation plugin(s)--
+*[INFO ]-- Scanning for api listing references--
+*[INFO ]-- Started SpringbddApplication in 21.483 seconds (JVM running for 39.561)--
+*[INFO ]-- Initializing Spring DispatcherServlet 'dispatcherServlet'--
+*[INFO ]-- -----------------------@Before advice called----------------------------------------
+*[INFO ]-- Entering in Method :  createTeam--
+*[WARN ]-- Argumentsttt :  [com.kgisl.springbdd.entity.Team@d3fa9f8]--
+*[INFO ]-- ------------------- @AfterReturning advice called -----------------------------------
+*[INFO ]--  >Returning for class : {} ; Method : {} com.kgisl.springbdd.service.TeamServiceImpcreateTeam--
+*[INFO ]-- > with value : {}com.kgisl.springbdd.entity.Team@5d119519--
+*[INFO ]-- -----------------------@Before advice called----------------------------------------
+*[INFO ]-- Entering in Method :  getTeams--
+*[WARN ]-- Argumentsttt :  []--
+*[INFO ]-- ------------------- @AfterReturning advice called -----------------------------------
+*[INFO ]--  >Returning for class : {} ; Method : {} com.kgisl.springbdd.service.TeamServiceImpgetTeams--
+*[INFO ]-- > with value : {}[com.kgisl.springbdd.entity.Team@3885bbaf]--
